@@ -1,4 +1,22 @@
 - name: 'Sébastien Saunier'
-  github_nickname: 'ssaunier'
+  address: "16, villa Gaudelet 75011"
+  avatar: "https://kitt.lewagon.com/placeholder/users/random"
+  city: 'Shanghai, China'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/shanghai'
+  description: 'Small flat in tokyo'
+  rating: 4
 - name: 'Boris Paillard'
-  github_nickname: 'Papillard'
+  address: "Rudi-Dutschke-Straße 26, 10969"
+  avatar: "https://kitt.lewagon.com/placeholder/users/random"
+  city: 'Berlin, Germany'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/berlin'
+  description: 'Charming room in Montmartre'
+  rating: 3
+- name: 'Bluhbluh Bahblah'
+  address: "Rudiduty Gaudelrab 22"
+  avatar: "https://kitt.lewagon.com/placeholder/users/random"
+  city: 'London, UK'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/lisbon'
+  description: 'Nice flat in Piccadilly'
+  rating: 5
+
